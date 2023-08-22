@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "lmFetch",
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../LangueMaternelle/css"
+		},
+		{
+			"name": "img",
+			"path": "../LangueMaternelle/img"
+		},
+		{
+			"name": "js",
+			"path": "../LangueMaternelle/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"livePreview.defaultPreviewPath": "/index.html",
+		"liveServer.settings.multiRootWorkspaceName": "lmFetch"
+	}
+}
